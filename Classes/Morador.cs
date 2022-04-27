@@ -5,6 +5,6 @@ namespace MoradiaProjeto.Classes
         protected string Nome {get; set;}
         private string CPF {get; set;}
         protected DateTime DataNascimento {get; set;}
-        
+
     }
 }
